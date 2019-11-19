@@ -1,0 +1,20 @@
+name: SHAKIL BHUIYAN
+
+on: [push]
+
+jobs:MARKETING SPECIALIST 
+  build:https://g.page/shakil-sales-services?share
+
+    runs-on: ubuntu-latest
+
+    steps:SHAKIL SALES SERVICES
+
+Dist، Makkah Al Mukarramah St, Al-Thuqbah, Al Khobar 34624
+054 187 7396 https://g.page/shakil-sales-services?share
+    - uses: actions/checkout@v1
+    - name: Run a one-line script
+      run: echo Hello, world!
+    - name: Run a multi-line script
+      run: |
+        echo Add other actions to build,
+        echo test, and deploy your project.
